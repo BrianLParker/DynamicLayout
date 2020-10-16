@@ -26,7 +26,6 @@ namespace DynamicLayout.Views.Shared
             base.OnInitialized();
         }
 
-        // Using Alts to game the system. ROFL Level up kids...
         protected override bool ShouldRender()
         {
             var shouldRender = base.ShouldRender();
